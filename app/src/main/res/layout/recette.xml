@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/recettePruneau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recette" />
+
+    <TextView
+        android:text="@string/recettePruneauBis"
+        android:layout_width="312dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:paddingLeft="20dp" />
+</LinearLayout>

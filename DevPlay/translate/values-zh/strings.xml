@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">计算 开胃酒</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">refresh</string>
+    <string name="litre_vin">升酒 :</string>
+    <string name="degres_vin">度酒的酒精 :</string>
+    <string name="degres_eau_de_vie">酒精度酒 (Eau-de-Vie) :</string>
+    <string name="degres_apero">酒精度开胃酒 :</string>
+    <string name="litre_eau_de_vie">升白酒 (Eau-de-Vie) :</string>
+    <string name="calcul">计算</string>
+    <string name="langmehdi"><a href="https://twitter.com/langmehdi" >©langmehdi</a></string>
+    <string name="recettePruneau">这里是梅干配方 :</string>
+    <string name="recettePruneauBis">   - 5kg 梅干 \n - 300gr 糖 \n -酒 \n - 酒 (Eau-de-vie)</string>
+    <string name="recette">与梅干</string>
+</resources>

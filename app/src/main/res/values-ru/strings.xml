@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Степень аперитива</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">refresh</string>
+    <string name="litre_vin">литр вина :</string>
+    <string name="degres_vin">спирта градусов вино :</string>
+    <string name="degres_eau_de_vie">спирта градусов щелок (Eau-de-Vie) :</string>
+    <string name="degres_apero">спирта градусов Аперетив :</string>
+    <string name="litre_eau_de_vie">литр щелок (Eau-de-Vie) :</string>
+    <string name="calcul">вычисление</string>
+    <string name="langmehdi"><a href="https://twitter.com/langmehdi" >©langmehdi</a></string>
+    <string name="recettePruneau">здесь сливовый рецепт :</string>
+    <string name="recettePruneauBis">   - 5kg слива \n - 300gr сахар \n - вино \n - щелок(Eau-de-vie)</string>
+    <string name="recette">с черносливом</string>
+    <string name="legal">лицензия</string>
+</resources>

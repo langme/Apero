@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stopień Aperitif</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">refresh</string>
+    <string name="litre_vin">Litrów Wino:</string>
+    <string name="degres_vin">Poziom alkoholu Wino :</string>
+    <string name="degres_eau_de_vie">Poziom trunek (Eau-de-Vie) :</string>
+    <string name="degres_apero">Poziom alkoholu Aperitif :</string>
+    <string name="litre_eau_de_vie">Litrów trunek (Eau-de-Vie) :</string>
+    <string name="calcul">Obliczać</string>
+    <string name="langmehdi"><a href="https://twitter.com/langmehdi" >©langmehdi</a></string>
+    <string name="recettePruneau">tutaj jest przepis suszonych śliwek :</string>
+    <string name="recettePruneauBis">   - 5kg suszona śliwka \n - 300 gr de cukier \n - Wino \n - trunek(Eau-de-vie)</string>
+    <string name="recette">Przepis suszonych śliwek</string>
+    <string name="legal">licencja</string>
+</resources>

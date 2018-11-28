@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calcular Aperitif</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">refresh</string>
+    <string name="litre_vin">Litro de vino :</string>
+    <string name="degres_vin">Grados de alcohol vino :</string>
+    <string name="degres_eau_de_vie">Grados de alcohol espíritu :</string>
+    <string name="degres_apero">Grados de alcohol Aperitif :</string>
+    <string name="litre_eau_de_vie">Litro espíritu :</string>
+    <string name="calcul">Calcular</string>
+    <string name="langmehdi"><a href="https://twitter.com/langmehdi" >©langmehdi</a></string>
+    <string name="recettePruneau">Aquí está ciruela pasa recipe :</string>
+    <string name="recettePruneauBis">   - 5kg ciruela pasa \n - 300 gr de Azúcar \n - Vino \n - Espíritu(Eau-de-vie)</string>
+    <string name="recette">Ciruela pasa recipe</string>
+</resources>

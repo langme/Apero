@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="3">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/litre_vin"
+                android:id="@+id/textViewVin"
+                android:textSize="18sp" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/editTextLtVin"
+                android:textSize="18sp"
+                android:inputType="numberDecimal"
+                android:digits="0123456789."
+                android:singleLine="true"
+                android:imeOptions="actionNext"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="3">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/degres_vin"
+                android:id="@+id/textViewDgVin"
+                android:textSize="18sp" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/editTextDgVin"
+                android:textSize="18sp"
+                android:inputType="numberDecimal"
+                android:digits="0123456789."
+                android:singleLine="true"
+                android:imeOptions="actionNext"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="3">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/degres_eau_de_vie"
+                android:id="@+id/textViewDgGout"
+                android:textSize="18sp" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/editTextDgGout"
+                android:textSize="18sp"
+                android:inputType="numberDecimal"
+                android:digits="0123456789."
+                android:singleLine="true"
+                android:imeOptions="actionNext"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="3">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/degres_apero"
+                android:id="@+id/textViewOperator"
+                android:textSize="18sp" />
+
+            <EditText
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/editTextOperator"
+                android:textSize="18sp"
+                android:inputType="numberDecimal"
+                android:digits="0123456789."
+                android:singleLine="true"
+                android:imeOptions="actionDone"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="7">
+
+            <Button
+                android:layout_height="match_parent"
+                android:id="@+id/buttonChange"
+                android:layout_weight="1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:scaleType="fitCenter"
+                android:background="@drawable/ic_change_convert"
+                android:layout_width="0dp" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/calcul"
+                android:textColor="@android:color/background_light"
+                android:id="@+id/buttonCalculLtGout"
+                android:layout_weight="6"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:background="@drawable/button"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="3">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/litre_eau_de_vie"
+                android:id="@+id/textViewRes"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/TxtViewResCompute"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="18sp" />
+        </TableRow>
+    </LinearLayout>
+</ScrollView>

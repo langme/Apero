@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Proof Aperitif</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">refresh</string>
+    <string name="litre_vin">Wine Liter :</string>
+    <string name="degres_vin">Level alcohol  wine :</string>
+    <string name="degres_eau_de_vie">Level liquor (Eau-de-Vie) :</string>
+    <string name="degres_apero">Level alcohol Aperitif :</string>
+    <string name="litre_eau_de_vie">Liquor Liter (Eau-de-Vie) :</string>
+    <string name="calcul">Calculate</string>
+    <string name="langmehdi"><a href="https://twitter.com/langmehdi" >©langmehdi</a></string>
+    <string name="recettePruneau">Here prune recipe :</string>
+    <string name="recettePruneauBis">   - 5kg prune \n - 300 gr de sugar \n - Wine \n - Liquor(Eau-de-vie)</string>
+    <string name="recette">Prune recipe</string>
+    <string name="legal">Licence</string>
+</resources>

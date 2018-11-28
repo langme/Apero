@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aperitifgrad</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_refresh">refresh</string>
+    <string name="litre_vin">Wein Liter :</string>
+    <string name="degres_vin">Alkohol Grad Wein :</string>
+    <string name="degres_eau_de_vie">Liquor Grad (Eau-de-Vie) :</string>
+    <string name="degres_apero">Alkohol Grad Aperitif :</string>
+    <string name="litre_eau_de_vie">Liquor Liter (Eau-de-Vie) :</string>
+    <string name="calcul">Kalkulieren</string>
+    <string name="langmehdi"><a href="https://twitter.com/langmehdi" >©langmehdi</a></string>
+    <string name="recettePruneau">Da kürzen rezept :</string>
+    <string name="recettePruneauBis">   - 5kg kürzen \n - 300 gr der zucker \n - Wein \n - Liquor(Eau-de-vie)</string>
+    <string name="recette">Kürzen rezept</string>
+    <string name="legal">Licence</string>
+</resources>
