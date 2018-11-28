@@ -26,7 +26,7 @@ ext {
     versionName   = '2.0.0'
 
     // Load keystore
-    keystorePropertiesFile = rootProject.file("app/keystore.properties")
+    keystorePropertiesFile = rootProject.file("app/gp/keystore.properties")
     keystoreProperties = new Properties()
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
